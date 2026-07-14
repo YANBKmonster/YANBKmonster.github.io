@@ -1,4 +1,4 @@
-# Welcome to YANBK's blog! :link: https://YANBKmonster.github.io 
+# Welcome to YANBK's blog! :link: https://blog.yanbk.dpdns.org
 ### :page_facing_up: [1](https://YANBKmonster.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 9 
